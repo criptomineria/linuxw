@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=auruxcoin Wallet
+Comment=auruxcoin wallet
+Exec=auruxcoinwallet %U
+Terminal=false
+Type=Application
+Icon=auruxcoin
+MimeType=x-scheme-handler/auruxcoin;
+Categories=Office;Finance;
